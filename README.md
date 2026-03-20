@@ -22,7 +22,6 @@ A simple movie discovery web application built with React that allows users to b
 
 - React
 - React Router
-- TailwindCSS
 - Fetch API
 - Context API (State Management)
 - TMDB API
