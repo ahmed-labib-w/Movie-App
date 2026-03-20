@@ -2,7 +2,7 @@
 
 A simple movie discovery web application built with React that allows users to browse trending movies, and manage a personal favorites list.
 
-🔗 Live Demo: ()
+🔗 Live Demo: (https://69bd6d2662572f0aa734738a--testmovieapptest.netlify.app/)
 
 ---
 
